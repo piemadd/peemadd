@@ -1,0 +1,22 @@
+{
+  "name": "peemadd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "1.7.0",
+    "@discordjs/voice": "0.16.0",
+    "bufferutil": "4.0.7",
+    "discord-api-types": "0.37.38",
+    "discord.js": "14.9.0",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.7",
+    "utf-8-validate": "6.0.3"
+  }
+}
