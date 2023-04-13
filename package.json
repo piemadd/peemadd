@@ -16,6 +16,7 @@
     "discord-api-types": "0.37.38",
     "discord.js": "14.9.0",
     "dotenv": "^16.0.3",
+    "fuse.js": "^6.6.2",
     "node-fetch": "^2.6.7",
     "utf-8-validate": "6.0.3"
   }
